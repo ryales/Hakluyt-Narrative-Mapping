@@ -1,0 +1,22 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+#map {
+  position:absolute;
+  top:50px;
+  bottom:0;
+  border-right-color: black;
+  border-right-width: 5px;
+  border-right-style: solid;
+  /*width:100%;*/
+}
+
+#content {
+	float: right;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top .navbar-inner .container .brand {
+	font-family: "Gill Sans MT", Lucida Bright, DejaVu Serif, Georgia, serif;
+}
