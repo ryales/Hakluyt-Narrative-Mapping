@@ -57,20 +57,23 @@
             <div class="container-fluid">
                 <!-- Brand and toggle are grouped for better mobile display -->
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.html">Hoisting Anchor: Masters Dissertation 2015</a>
+                    <a class="navbar-brand" href="hakluyt-narrative-mapping.html">Hoisting Anchor: Masters Dissertation 2015</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
                         <li><a href="about.html">About</a></li>
-                        <li class="dropdown">
+                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Voyages <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="#">Martin Frobisher Voyages</a></li>
                                 <li role="separator" class="divider"></li>
                                 <li><a href="#">Separated link</a></li>
                             </ul>
-                        </li>
+                        </li> -->
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="about.html">By Rachel Yales</a></li>
                     </ul>
                     <!-- Search Form 
                     <ul class="nav navbar-nav navbar-right">
@@ -87,11 +90,12 @@
         </nav>
         <div id="map-content" class="container-fluid">
         <div class="row">
-            <div class="col-xs-12 col-md-7" id="map"></div>
-                <div class="col-xs-6 col-md-5" id="content">
-                    <h2>Title Here</h2>
-                    <p>Article pulled from XML</p>
-                </div>
+            <div class="col-xs-12" id="map"></div>
+            <!-- FOR WHEN XML DOM ISSUE IS FIXED -->
+            <!-- <div class="col-xs-6 col-md-5" id="content">
+                <h2>Title Here</h2>
+                <p>Article pulled from XML</p>
+            </div> -->
             </div>
         </div>
 
@@ -177,7 +181,7 @@
         feature_group.addTo(map);
 
    
-        L.control.layers({"Frobisher 1576": exp_frobisher1JSON,"Frobisher 1577": exp_frobisher2JSON,"Frobisher 1578": exp_frobisher3JSON},{collapsed:true}).addTo(map);
+        L.control.layers({"Frobisher 1576": exp_frobisher1JSON,"Frobisher 1577": exp_frobisher2JSON,"Frobisher 1578": exp_frobisher3JSON}).addTo(map);
 
         L.control.scale({options: {position: 'bottomleft',maxWidth: 100,metric: true,imperial: false,updateWhenIdle: false}}).addTo(map);
     </script>
