@@ -1,3 +1,8 @@
+///////////////////////////////////////////////////////////////
+// Author:  qgis2leaf, Geolicious and others                 //
+// Purpose: User control functions for interaction with map. //
+///////////////////////////////////////////////////////////////
+
 (function(window) {
 	var HAS_HASHCHANGE = (function() {
 		var doc_mode = window.documentMode;

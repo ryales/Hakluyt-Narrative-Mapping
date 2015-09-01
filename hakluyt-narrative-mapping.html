@@ -7,6 +7,7 @@
         <!-- Call to CSS stylesheets -->
         <link rel="stylesheet" href="css/bootstrap.min.css" />
         <link rel="stylesheet" href="css/leaflet.css" />
+        <link rel="stylesheet" href="css/leaflet.timeline.css" />
         <link rel="stylesheet" href="css/site.css">
         
         <!-- Call to JavaScript files required on load -->
@@ -14,6 +15,7 @@
         <script src="js/bootstrap.min.js"></script>
         <script src="js/loadxml.js"></script>
         <script src="js/leaflet.min.js"></script>
+        <script src="js/leaflet.timeline.js"></script>
         <script src="js/leaflet-hash.js"></script>
         <script src="js/Autolinker.min.js"></script>
 
@@ -93,7 +95,9 @@
             </div>
         </div>
 
-        <script src="data/exp_frobisher.js"></script>
+        <script src="data/exp_frobisher3.js"></script>
+        <script src="data/exp_frobisher2.js"></script>
+        <script src="data/exp_frobisher1.js"></script>
         <script>
         var map = L.map('map', {
             zoomControl:true, maxZoom:19
@@ -107,6 +111,7 @@
         }); 
         basemap.addTo(map);   
         var layerOrder=new Array();
+
         function pop_frobisher(feature, layer) {                    
             var popupContent = '<table><tr><th scope="row">Extract:</th><td>' + ' '
                 + Autolinker.link(String(feature.properties['extract'])) 
@@ -126,30 +131,54 @@
             layer.bindPopup(popupContent);
         }
 
-        var shipIcon = L.icon({
-            iconUrl: 'images/sailboat.png',
+        var frobisherIcon1 = L.icon({
+            iconUrl: 'images/sailboat_blue.png',
             iconSize: [20, 20],
             });
 
-        var exp_frobisherJSON = new L.geoJson(exp_frobisher,{
+        var frobisherIcon2 = L.icon({
+            iconUrl: 'images/sailboat_red.png',
+            iconSize: [20, 20],
+            });
+
+        var frobisherIcon3 = L.icon({
+            iconUrl: 'images/sailboat_green.png',
+            iconSize: [20, 20],
+            });
+
+        var exp_frobisher1JSON = new L.geoJson(exp_frobisher1,{
             onEachFeature: pop_frobisher,
             pointToLayer: function (feature, latlng) {  
-                return L.marker(latlng, {icon: shipIcon})
+                return L.marker(latlng, {icon: frobisherIcon1})
             }
         });
         //add comment sign to hide this layer on the map in the initial view.
-        feature_group.addLayer(exp_frobisherJSON);
+        feature_group.addLayer(exp_frobisher1JSON);
+        
+
+        var exp_frobisher2JSON = new L.geoJson(exp_frobisher2,{
+            onEachFeature: pop_frobisher,
+            pointToLayer: function (feature, latlng) {  
+                return L.marker(latlng, {icon: frobisherIcon2})
+            }
+        });
+        //add comment sign to hide this layer on the map in the initial view.
+        feature_group.addLayer(exp_frobisher2JSON);
+        
+        var exp_frobisher3JSON = new L.geoJson(exp_frobisher3,{
+            onEachFeature: pop_frobisher,
+            pointToLayer: function (feature, latlng) {  
+                return L.marker(latlng, {icon: frobisherIcon3})
+            }
+        });
+        //add comment sign to hide this layer on the map in the initial view.
+        feature_group.addLayer(exp_frobisher3JSON);
 
         feature_group.addTo(map);
-        var legend = L.control({position: 'bottomright'});
-        legend.onAdd = function (map) {
-            var div = L.DomUtil.create('div', 'info legend');
-            div.innerHTML = "<h3>Legend</h3><table></table>";
-            return div;
-        };
-        legend.addTo(map);
-    
-        L.control.layers({"frobisher": exp_frobisherJSON}).addTo(map);
+
+   
+        L.control.layers({"Frobisher 1576": exp_frobisher1JSON,"Frobisher 1577": exp_frobisher2JSON,"Frobisher 1578": exp_frobisher3JSON},{collapsed:true}).addTo(map);
+
         L.control.scale({options: {position: 'bottomleft',maxWidth: 100,metric: true,imperial: false,updateWhenIdle: false}}).addTo(map);
     </script>
 </body>

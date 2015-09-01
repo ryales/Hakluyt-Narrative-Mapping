@@ -1,5 +1,4 @@
 ///////////////////////////////////////////////////////////////
-// Author:        Rachel Yales                               //
 // Last Modified: 17 Aug 2015                                //
 // Purpose:       Loads XML document for use in the XML DOM. //
 ///////////////////////////////////////////////////////////////
@@ -14,4 +13,4 @@ function loadXMLDoc(filename) {
     xhttp.open("GET",filename,true);
     xhttp.send();
     return xhttp.responseXML;
-} 
+}

@@ -1,6 +1,12 @@
 var exp_frobisher = {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"crs": { "type": "name",
+		 "properties": { 
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84",
+			"start": "1576-05-01",
+			"end": "1578-12-31"
+		} 
+	},
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "id": "V0001", "extract": "FROBISHER_3", "author": "Thomas Ellis", "explorer": "Martin Frobisher", "vol": 12, "place": "Grauesend", "date": "1578-05-25", "lat": 51.442000, "long": 0.369000, "wiki": "https:\/\/en.wikipedia.org\/wiki\/Gravesend" }, "geometry": { "type": "Point", "coordinates": [ 0.369, 51.442 ] } },

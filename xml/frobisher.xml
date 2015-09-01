@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<extracts>
+<extracts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="hakluyt_schema.xsd">
   <extract id="E001">
     <title>
       The first Voyage of <person>M. Martine Frobisher</person>, to the Northwest, for the search of the straight or passage to <place>China</place>, written by <person>Christopher Hall</person>, Master in the <ship>Gabriel</ship>, and made in the yeere of our Lord 1576.
@@ -199,7 +199,7 @@
     </para>
 
     <para>
-      <sidenote>They enter <place>the Streit</place> in the latitude of 63. deg. and 8. min.</sidenote>
+      <sidenote>They enter the Streit in the latitude of 63. deg. and 8. min.</sidenote>
       <date date="1576-08-11">The 11.</date> we found our latitude to be 63. degr. and eight minutes, and this
       day we entred <place>the streight</place>.
     </para>
@@ -399,8 +399,8 @@
       <para>
         <sidenote>The Islands Orcades, or Orkney.</sidenote> Vpon which considerations, the
         day and yeere before expressed, we departed from <place>Blacke Wall</place> to <place>Harwich</place>,
-        where making an accomplishment of things necessary, <date day="1577-05-31">the last of May</date> we
-        hoised vp sailes, and with a merrie winde the <date day="1577-06-07">7. of Iune</date> we arriued at the
+        where making an accomplishment of things necessary, <date date="1577-05-31">the last of May</date> we
+        hoised vp sailes, and with a merrie winde the <date date="1577-06-07">7. of Iune</date> we arriued at the
         <place>Islands called Orcades, or vulgarly Orkney</place>, being in number 30. subiect and
         adiacent to <place>Scotland</place> where we made prouision of fresh water; in the doing
         wherof <person>our Generall</person> licensed the Gentlemen and souldiers for their
@@ -590,7 +590,7 @@
         without any impediment, on <date date="1577-07-19">the 19. of Iulie</date> we entred them, and <date date="1577-07-20">the 20.
         thereof</date>, <person>our Generall and Master</person> with great diligence, sought out and
         sounded the West shoare, and found out a faire Harborough for the ship and
-        barkes to ride in, and named it after our Masters mate, <placce>Iackmans sound</placce>, and
+        barkes to ride in, and named it after our Masters mate, <place>Iackmans sound</place>, and
         brought the ship, barkes and all their company to safe anker, except one
         man, which died by Gods visitation.
       </para>
@@ -1188,7 +1188,7 @@
       </title>
 
       <para>
-        These are to let you know, that vpon the <date day="1578-05-25">25. of May</date>, the <ship>Thomas Allen</ship> being
+        These are to let you know, that vpon the <date date="1578-05-25">25. of May</date>, the <ship>Thomas Allen</ship> being
         Viceadmirall whose Captaine was <person>M. Yorke</person>, <person>M. Gibbes</person> Master, <person>Christopher
         Hall</person> Pilot, accompanied with the Reareadmiral named the <ship>Hopewel</ship>, whose
         Captaine was <person>M. Henrie Carewe</person>, the <person>M. Andrewe Dier</person>, and certaine other
@@ -1197,18 +1197,18 @@
       </para>
 
       <para>
-        <date day="1578-05-27">The 27. of the same moneth</date> our Fleete being nowe come together, and all
+        <date date="1578-05-27">The 27. of the same moneth</date> our Fleete being nowe come together, and all
         things prest in a readinesse, the wind fauouring, and tide seruing, we
         being of sailes in number eight, waied ankers and hoised our sailes toward
         Harwich to meete with our Admirall, and the residue which then and there
-        abode arriuall: where we safely arriued <date day="1578-05-28">the 28. thereof</date>, finding there our
+        abode arriuall: where we safely arriued <date date="1578-05-28">the 28. thereof</date>, finding there our
         Admirall, whom we with the discharge of certaine pieces saluted, acording
         to order and duety, and were welcommed with the like courtesie: which being
         finished we landed; where our Generall continued mustering his souldiers
         and Miners, and setting things in order appertaining to the voyage vntill
-        <date day="1578-05-31">the last of the said moneth of May</date>, which day we hoised our sailes, and
+        <date date="1578-05-31">the last of the said moneth of May</date>, which day we hoised our sailes, and
         committing ourselues to the conducting of Almightie God, we set forward
-        toward the west Countrey in such luckie wise and good successe, that by <date day="1578-06-05">the
+        toward the west Countrey in such luckie wise and good successe, that by <date date="1578-06-05">the
         fift of Iune</date> we passed <place>the Dursies</place>, being the vtmost part of <place>Ireland</place> to the
         Westward.
       </para>
@@ -1227,7 +1227,7 @@
         (without any more mentioning of the same) to that from the which I haue
         digressed and swarued, I meane our ships now sailing on the surging seas,
         sometime passing at pleasure with a wished Easterne wind, sometimes
-        hindered of our course againe by the Westerne blasts, vntill <date day="1578-06-20">the 20. day of
+        hindered of our course againe by the Westerne blasts, vntill <date date="1578-06-20">the 20. day of
         the foresayd moneth of Iune</date>, on which day in the morning we fell with
         <place>Frizeland</place>, which is a very hie and cragged land and was almost cleane
         couered with snow, so that we might see nought but craggie rockes and the
@@ -1261,7 +1261,7 @@
         drums, and sounded our trumpets, to the ende we might keepe together: and
         so continued all that day and night till the next day that the mist brake
         vp: so that we might easily perceiue all the ships thus sailing together
-        all that day, vntil the next day, being the <date day="1578-06-22">22. of the same</date>: on which day
+        all that day, vntil the next day, being the <date date="1578-06-22">22. of the same</date>: on which day
         wee sawe an infinite number of yce, from the which we cast about to shun
         the danger thereof.
       </para>
@@ -1271,7 +1271,7 @@
         Kinderslie</person>, the master <person>Bartholomew Bull</person>, lost our company, insomuch that we
         could not obteine the sight of her many dayes after, of whom I meane to
         speak further anon when occassion shall be ministred, and opportunitie
-        serue. Thus we continued in our course vntill <date day="1578-07-02">the second of Iuly</date>, on which
+        serue. Thus we continued in our course vntill <date date="1578-07-02">the second of Iuly</date>, on which
         day we fell with the <place>Queenes foreland</place>, where we saw so much yce, that we
         thought it vnpossible to get into <place>the Straights</place>; yet at the last we gaue
         the aduenture and entred the yce.
@@ -1286,7 +1286,7 @@
         hereafter) were seuered from vs, and being in, wandred vp and downe <place>the
         Straights</place> amongst the yce many dayes in great perill, till at the last, by
         the prouidence of God, they came safely to harbor in their wished Port in
-        the <place>Countesse of Warwicks sound</place>, the <date day="1578-07-20">20. of Iuly</date> aforesayd, tenne dayes
+        the <place>Countesse of Warwicks sound</place>, the <date date="1578-07-20">20. of Iuly</date> aforesayd, tenne dayes
         before any of the other shippes: <sidenote>The Countesse of Warwicks
           sound.</sidenote> who going on shore found where the people of the Countrey had bene,
         and had hid their provision in great heapes of stones being both of flesh
@@ -1381,20 +1381,20 @@
       </para>
 
       <para>
-        <sidenote>A fog of long continuance.</sidenote> Also the <date day="1578-07-05">fift of Iuly</date> there fell a
-        hidious fogge and mist, that continued till the <date day="1578-07-19">nineteenth of the same</date>: so
+        <sidenote>A fog of long continuance.</sidenote> Also the <date date="1578-07-05">fift of Iuly</date> there fell a
+        hidious fogge and mist, that continued till the <date date="1578-07-19">nineteenth of the same</date>: so
         that one shippe could not see another. <sidenote>A current to the
         Northwest.</sidenote> Therefore we were faine to beare a small sayle and to obserue
         the time: but there ran such a current of a tide, that it set vs to the
         Northwest of the <place>Queenes foreland</place> the backside of all <place>the Straights</place>: where
         (through the contagious fogge hauing no sight either of Sunne or Starre) we
-        scarce knew where we were. In this fogge <date day="1578-07-10">the tenth of Iuly</date> we lost the
+        scarce knew where we were. In this fogge <date date="1578-07-10">the tenth of Iuly</date> we lost the
         company of the <ship>Viceadmirall</ship>, the <ship>Anne Francis</ship>, the <ship>Busse of Bridgewater</ship>,
         and the <ship>Francis of Foy</ship>.
       </para>
 
       <para>
-        <sidenote>The Gabriel. The people offer to traffike with vs.</sidenote> The <date day="1578-07-16">16. day</date>
+        <sidenote>The Gabriel. The people offer to traffike with vs.</sidenote> The <date date="1578-07-16">16. day</date>
         one of our small Barkes named The <ship>Gabriel</ship> was sent by <ship>our Generall</ship> to beare
         in with the land to descrie it, where being on land, they met with the
         people of the Countrey, which seemed very humane and ciuill, and offered to
@@ -1404,7 +1404,7 @@
       </para>
 
       <para>
-        Then we bare backe againe to goe with the <place>Queenes foreland</place>: and <date day="1578-07-18">the
+        Then we bare backe againe to goe with the <place>Queenes foreland</place>: and <date date="1578-07-18">the
         eighteenth day</date> wee came by <place>two Islands</place> whereon we went on shore, and found
         where the people had bene: but we saw none of them. This day we were againe
         in the yce, and like to be in as great perill as we were at the first. For
@@ -1436,7 +1436,7 @@
       <para>
         Then hauing gathered our selues togither we proceeded on our purposed
         voyage, bearing off, and keeping our selues distant from the coast till the
-        <date day="1578-07-19">19. day of Iuly</date>; at which time the fogges brake vp and dispersed, so that
+        <date date="1578-07-19">19. day of Iuly</date>; at which time the fogges brake vp and dispersed, so that
         we might plainely and clearly behold the pleasant ayre, which so long had
         bene taken from vs, by the obscuritie of the foggie mists: and after that
         time we were not much incumbred therewith vntill we had left the confines
@@ -1457,7 +1457,7 @@
         wished Port. But they were so incombred that with much difficultie they
         were able to get out againe, yet at the last they escaping, the <ship>Thomas
         Allen</ship>, and the <ship>Gabriel</ship> bare in with the Westerne shore, where they found
-        harbour, and there moared their ships vntill the <date day="1578-08-04">fourth of August</date>, at which
+        harbour, and there moared their ships vntill the <date date="1578-08-04">fourth of August</date>, at which
         time they came to vs in the <place>Countesse of Warwicks sound</place>. The <ship>Thomas of
         Ipswich</ship> caught a great leake which caused her to cast againe to Seabord and
         so was mended.
@@ -1478,7 +1478,7 @@
 
       <para>
         <sidenote>An horrible snowe fell in Iuly.</sidenote> There fell also the same day
-        being the <date day="1578-07-26">26. of Iuly</date>, such an horrible snow, that it lay a foot thick vpon
+        being the <date date="1578-07-26">26. of Iuly</date>, such an horrible snow, that it lay a foot thick vpon
         the hatches which frose as it fell.
       </para>
 
@@ -1492,19 +1492,19 @@
       </para>
 
       <para>
-        The <date day="1578-07-28">28. day therefore of the same Iuly</date> we assayed, and with little trouble
+        The <date date="1578-07-28">28. day therefore of the same Iuly</date> we assayed, and with little trouble
         (God be praysed) we passed the dangers by day light. <sidenote>The time of
         our setting forward, &amp;c.</sidenote> Then night falling on the face of the earth, wee
         hulled in the cleare, til the chearefull light of the day had chased away
         the noysome darkenesse of the night: at which time we set forward towards
-        our wished Port: by the <date day="1578-07-30">30. day</date> wee obteined our expected desire, where we
+        our wished Port: by the <date date="1578-07-30">30. day</date> wee obteined our expected desire, where we
         found the <ship>Iudith</ship>, and the <ship>Michael</ship>: which brought no smal ioy vnto <person>the
         General</person>, and great consolation to the heauie hearts of those wearied
         wights.
       </para>
 
       <para>
-        The <date day="1578-07-30">30. day of Iuly</date> we brought our ships into the <place>Countesse of Warwicks
+        The <date date="1578-07-30">30. day of Iuly</date> we brought our ships into the <place>Countesse of Warwicks
         sound</place>, and moared them, namely these ships, The <ship>Admirall</ship>, the <ship>Rearadmirall</ship>,
         the <ship>Francis of Foy</ship>, the <ship>Beare Armenel</ship>, the <ship>Salomon</ship>, and the <ship>Busse of
         Bridgewater</ship>: which being done, <person>our Generall</person> commaunded vs all to come a
@@ -1542,7 +1542,7 @@
         vs: whereof <person>our Generall</person> hauing aduertisement, sent for the Captaines and
         Gentlemen of the ships, to accompany and attend vpon him, with the Captaine
         also of the <ship>Anne Francis</ship>, who was but the night before come vnto vs. For
-        they, and the <ship>Fleebote</ship> hauing lost vs the <date day="1578-07-26">26. day</date> in the great snow, put
+        they, and the <ship>Fleebote</ship> hauing lost vs the <date date="1578-07-26">26. day</date> in the great snow, put
         into an harbour in the <place>Queenes foreland</place>, where they found good Oare,
         wherewith they laded themselues, and came to seeke the Generall: so that
         now we had all our Shippes, sauing one Barke, which was lost, and the
@@ -1572,7 +1572,7 @@
         haile often falling, the water was so much frosen and congealed in the
         night, that in the morning we could scarce rowe our botes or Pinnesses,
         especially in <place>Diers sound</place>, which is a calme and still water: which caused
-        our Generall to make the more haste, so that by the <date day="1578-08-30">30. day of August</date> we
+        our Generall to make the more haste, so that by the <date date="1578-08-30">30. day of August</date> we
         were all laden, and made all things ready to depart.
       </para>
 
@@ -1607,7 +1607,7 @@
 
       <para>
         Thus hauing finished all things we departed the Countrey, as I sayd before:
-        but because the <ship>Busse</ship> had not lading enough in her, she put into <place lat="" long="">Beares
+        but because the <ship>Busse</ship> had not lading enough in her, she put into <place>Beares
         sound</place> to take in a little more. In the meane while the Admirall, and the
         rest without at Sea stayed for her. And that night fell such an outragious
         tempest, beating on our shipps with such vehement rigor, that anchor and
@@ -1639,10 +1639,10 @@
         <sidenote>Our entring the coastes dangerous.</sidenote> Thus our iourney outward was
         not so pleasant, but our comming thither, entering the coasts and countrey,
         by <place>narrow Streights</place>, perillous yce, and swift tides, our times of aboade
-        there in snowe and stormes, and our departure from thence the <date day="1578-08-31">31. of August</date>
+        there in snowe and stormes, and our departure from thence the <date date="1578-08-31">31. of August</date>
         with dangerous blustering windes and tempests, which that night arose, was
         as vncomfortable: separating vs so as we sayled, that not any of vs mette
-        together, vntill the <date day="1578-09-28">28. of September</date>, which day we fell on the English
+        together, vntill the <date date="1578-09-28">28. of September</date>, which day we fell on the English
         coastes, betweene <place>Sylley</place> and the <place>landes ende</place>, and passed the channell,
         vntill our arriuall in the <place>riuer of Thames</place>.
       </para>
