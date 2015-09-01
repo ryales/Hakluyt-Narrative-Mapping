@@ -1,56 +1,56 @@
 <?xml version="1.0"?>
 
 <extracts>
-  <extract>
+  <extract id="E001">
     <title>
-      The first Voyage of M. Martine Frobisher, to the Northwest, for the search of the straight or passage to China, written by Christopher Hall, Master in the Gabriel, and made in the yeere of our Lord 1576.
+      The first Voyage of <person>M. Martine Frobisher</person>, to the Northwest, for the search of the straight or passage to <place>China</place>, written by <person>Christopher Hall</person>, Master in the <ship>Gabriel</ship>, and made in the yeere of our Lord 1576.
     </title>
 
     <para>
-      <date date="1576-06-07">The 7. of Iune being Thursday</date>, the two Barks, viz. the Gabriel, and the
-      Michael <note>M. Matthew Kinderslye was Captaine of the Michael.</note>
-      and our Pinnesse set saile at Ratcliffe, and bare down to Detford, and
+      <date date="1576-06-07">The 7. of Iune being Thursday</date>, the two Barks, viz. the <ship>Gabriel</ship>, and the
+      <ship>Michael</ship> <note>M. Matthew Kinderslye was Captaine of the Michael.</note>
+      and our Pinnesse set saile at <place>Ratcliffe</place>, and bare down to <place>Detford</place>, and
       there we ancred: the cause was that our Pinnesse burst her boulsprit, and
-      foremast aboard of a ship that rode at Detford, else wee meant to haue past
-      that day by the Court then at Grenewich.
+      foremast aboard of a ship that rode at <place>Detford</place>, else wee meant to haue past
+      that day by the Court then at <place>Grenewich</place>.
     </para>
 
     <para>
-      The 8. day being Friday, about 12 of the clocke we wayed at Detford, and
+      The <date date="1576-06-08">8. day being Friday</date>, about 12 of the clocke we wayed at <place>Detford</place>, and
       set saile all three of vs, and bare downe by the Court, where we shotte off
-      our ordinance and made the best shew we could: Her Maiestie beholding the
+      our ordinance and made the best shew we could: <person>Her Maiestie</person> beholding the
       same, commended it, and bade vs farewell, with shaking her hand at vs out
-      of the window. Afterward shee sent a Gentleman aboord of vs, who declared
-      that her Maiestie had good liking of our doings, and thanked vs for it, and
-      also willed our Captaine to come the next day to the Court to take his
+      of the window. Afterward shee sent <person>a Gentleman</person> aboord of vs, who declared
+      that <person>her Maiestie</person> had good liking of our doings, and thanked vs for it, and
+      also willed <person>our Captaine</person> to come the next day to the Court to take his
       leaue of her.
     </para>
 
     <para>
-      The same day towards night M. Secretarie Woolly came aboorde of vs, and
-      declared to the company, that her Maiestie had appointed him to giue them
-      charge to be obedient, and diligent to their Captaine, and gouernours in
+      <date date="1576-06-08">The same day</date> towards night <person>M. Secretarie Woolly</person> came aboorde of vs, and
+      declared to the company, that <person>her Maiestie</person> had appointed him to giue them
+      charge to be obedient, and diligent to <person>their Captaine</person>, and gouernours in
       all things, and wished vs happie successe.
     </para>
 
     <para>
-      The 12. day being ouer against Grauesend, by the castle or blockehouse, we
+      The <date date="1576-06-12">12. day</date> being ouer against <place>Grauesend</place>, by the castle or blockehouse, we
       obserued the latitude, which was 51. degrees 33. min. And in that place the
       variation of the Compasse is 11. degrees and a halfe.
     </para>
 
     <para>
-      <sidenote>Faire Island.</sidenote> The 24. day at 2. of the clocke after noone, I
-      had sight of Faire yle, being from vs 6. leagues North and by East, and
+      <sidenote>Faire Island.</sidenote> The <date date="1576-06-24">24. day</date> at 2. of the clocke after noone, I
+      had sight of <place>Faire yle</place>, being from vs 6. leagues North and by East, and
       when I brought it Northwest and by North, it did rise at the Southermost
       ende with a litle hommocke, and swampe in the middes.
     </para>
 
     <para>
-      <sidenote>Shotland.</sidenote> The 25. day from 4. to 8. a clocke in the forenoone,
+      <sidenote>Shotland.</sidenote> The <date date="1576-06-25">25. day</date> from 4. to 8. a clocke in the forenoone,
       the winde at Northwest and by North a fresh gale, I cast about to the
-      Westward, the Southermost head of Shotland called Swinborne head
-      Northnorthwest from me, and the land of Faire yle, West Southwest from me.
+      Westward, <place>the Southermost head of Shotland called Swinborne head</place>
+      Northnorthwest from me, and the land of <place>Faire yle</place>, West Southwest from me.
       I sailed directly to the North head of that said land, sounding as I ranne
       in, hauing 60. 50. and 40. fathoms, and gray redde shels: and within halfe
       a mile of that Island, there are 36. fathoms, for I sailed to that Island
@@ -63,32 +63,32 @@
     </para>
 
     <para>
-      The 26. day hauing the winde at South a faire gale, sayling from Faire yle
-      to Swinborne head, I did obserue the latitude, the Island of Fowlay being
-      West Northwest from me 6. leagues, and Swinborne head East southeast from
+      The <date date="1576-06-26">26. day</date> hauing the winde at South a faire gale, sayling from <place>Faire yle</place>
+      to <place>Swinborne head</place>, I did obserue the latitude, the <place>Island of Fowlay</place> being
+      West Northwest from me 6. leagues, and <place>Swinborne head</place> East southeast from
       me, I found my eleuation <note>By eleuation he meaneth the
       distance of the sunne from the zenith.</note> to be 37. degr and my declination
       22. degr. 46 min. So that my latitude was 59. degr. 46. min. <sidenote>S.
-      Tronions.</sidenote> At that present being neere to Swinborne head, hauing a leake
+      Tronions.</sidenote> At that present being neere to <place>Swinborne head</place>, hauing a leake
       which did trouble vs, as also to take in fresh water, I plyed roome with a
-      sound, which is called S. Tronions, and there did ancre in seuen fathoms
+      sound, which is called <place>S. Tronions</place>, and there did ancre in seuen fathoms
       water, and faire sande. You haue comming in the sounds mouth in the entring
       17. 15. 12. 10. 9. 8. and 7. fathoms, and the sound lyeth in North
       northwest, and there we roade to a West sunne, and stopped our leake, and
       hauing refreshed our selues with water, at a North northwest sunne, I set
-      saile from S. Tronions the winde at South Southest, and turned out till wee
-      were cleare of the sound, and so sailed West to go cleare of the Island of
-      Fowlay. <sidenote>Fowlay Island.</sidenote> And running off toward Fowlay, I
+      saile from <place>S. Tronions</place> the winde at South Southest, and turned out till wee
+      were cleare of the sound, and so sailed West to go cleare of the <place>Island of
+      Fowlay</place>. <sidenote>Fowlay Island.</sidenote> And running off toward <place>Fowlay</place>, I
       sounded, hauing fiftie fathome, and streamie ground, and also I sounded
-      Fowlay being North from mee one league off that Islande, hauing fiftie
+      <place>Fowlay</place> being North from mee one league off that Islande, hauing fiftie
       fathome at the South head, and streamie ground, like broken otmell, and one
       shell being redde and white like mackerell.
     </para>
 
     <para>
       <sidenote>Latitude 59. deg. 59. min. Here they begin to saile West and by
-      North.</sidenote> The 27. day at a South sunne I did obserue the latitude, the Island
-      of Fowlay being from me two leagues East Northeast: I found my selfe to be
+      North.</sidenote> The <date date="1576-06-27">27. day</date> at a South sunne I did obserue the latitude, the <place>Island
+      of Fowlay</place> being from me two leagues East Northeast: I found my selfe to be
       in latitude 59. degrees, 59. min truly obserued, the winde at South
       Southwest: I sailed West and by North.
     </para>
@@ -96,12 +96,12 @@
     <para>
       From 12. to foure a clocke afternoone, the wind at South, a faire gale the
       shippe sailed West and by North 6. leagues, and at the ende of this watch,
-      I sounded hauing 60. fathome, with little stones and shels, the Island from
+      I sounded hauing 60. fathome, with little stones and shels, <place>the Island</place> from
       vs 8. leagues East.
     </para>
 
     <para>
-      <sidenote>July the first.</sidenote> The first of Iuly, from 4. to 8. a clocke, wee
+      <sidenote>July the first.</sidenote> The <date date="1576-07-01">first of Iuly</date>, from 4. to 8. a clocke, wee
       sailed West 4. glasses 4. leagues, and at that present we had so much winde
       that we spooned afore the sea Southwest 2. leagues.
     </para>
@@ -119,7 +119,7 @@
     </para>
 
     <para>
-      <sidenote>The Island of Friseland.</sidenote> The 11. day at a Southeast sunne we
+      <sidenote>The Island of Friseland.</sidenote> The <date date="1576-07-11">11. day</date> at a Southeast sunne we
       had sight of <place>the land of Friseland</place> bearing from vs West northwest 16.
       leagues, and rising like pinacles of steeples, and all couered with snowe.
       I found my selfe in 61. degr. of latitude. Wee sailed to the shoare and
@@ -132,7 +132,7 @@
     </para>
 
     <para>
-      The 18. day at a Southwest sunne I found the sunne to be eleuated 33. deg.
+      The <date date="1576-07-18">18. day</date> at a Southwest sunne I found the sunne to be eleuated 33. deg.
       And at a Southsoutheast sunne 40. deg. So I obserued it till I found it at
       the highest, and then it was eleuated 52. deg. <sidenote>The variation of
       the needle two points and a halfe to the West.</sidenote> I iudged the variation of
@@ -140,8 +140,8 @@
     </para>
 
     <para>
-      <sidenote>A great drift of yce.</sidenote> The 21. day we had sight of a great drift
-      of yce, seeming a firme land, and we cast Westward to be cleare of it.
+      <sidenote>A great drift of yce.</sidenote> The <date date="1576-07-21">21. day</date> we had sight of a great drift
+      of yce, seeming <place>a firme land</place>, and we cast Westward to be cleare of it.
     </para>
 
     <para>
@@ -150,9 +150,9 @@
     </para>
 
     <para>
-      <sidenote>Sight of land supposed to haue been Labrador.</sidenote> The 28. day in
+      <sidenote>Sight of land supposed to haue been Labrador.</sidenote> The <date date="1576-07-28">28. day</date> in
       the morning was very foggie: but at the clearing vp of the fogge, we had
-      sight of lande, which I supposed to be <place latlong="54.77535, -59.15039">Labrador</place>, with great store of yce
+      sight of lande, which I supposed to be <place>Labrador</place>, with great store of yce
       about the land: I ranne in towards it, and sownded, but could get no ground
       at 100. fathom, and the yce being so thicke, I could not get to the shoare,
       and so lay off, and came cleare of the yce. Upon Munday we came within a
@@ -166,15 +166,15 @@
     </para>
 
     <para>
-      This day at 4. of the clocke in the morning, being faire and cleere, we had
-      sight of a head land, as we iudged, bearing from vs north, and by East, and
+      <date date="1576-07-28">This day</date> at 4. of the clocke in the morning, being faire and cleere, we had
+      sight of <place>a head land</place>, as we iudged, bearing from vs north, and by East, and
       we sailed Northeast, and by North to that land, and when we came thither,
       wee could not get to the lande for yce: for the yce stretched along the
       coast, so that we could not come to the land, by fiue leagues.
     </para>
 
     <para>
-      <sidenote>August.</sidenote> Wednesday the first of August it calmed, and in the
+      <sidenote>August.</sidenote> <date date="1576-08-01">Wednesday the first of August</date> it calmed, and in the
       after noone I caused my boate to be hoysed out, being hard by a great
       Island of yce, and I and foure men rowed to that yce, and sounded within
       two Cables length of it, and had sixteene fathome, and little stones, and
@@ -188,66 +188,66 @@
     </para>
 
     <para>
-      The tenth I tooke foure men, and my selfe, and rowed to
-      shoare to an Island one league from the maine, and there the
+      <date date="1576-08-10">The tenth</date> I tooke foure men, and my selfe, and rowed to
+      shoare to <place>an Island</place> one league from the maine, and there the
       flood setteth Southwest alongest the shoare, and it floweth as
       neere as I could iudge so too, I could not tarry to prooue it,
       because the ship was a great way from me, and I feared a fogge:
-      but when I came a shoare, it was a low water. I went to the top
-      of the Island, and before I came backe, it was hied a foote water,
+      but when I came a shoare, it was a low water. I went to <place>the top
+      of the Island</place>, and before I came backe, it was hied a foote water,
       and so without tarrying I came aboord.
     </para>
 
     <para>
       <sidenote>They enter <place>the Streit</place> in the latitude of 63. deg. and 8. min.</sidenote>
-      The 11. we found our latitude to be 63. degr. and eight minutes, and this
-      day we entred the streight.
+      <date date="1576-08-11">The 11.</date> we found our latitude to be 63. degr. and eight minutes, and this
+      day we entred <place>the streight</place>.
     </para>
 
     <para>
-      The 12. wee set saile towardes an Island, called the <place latlong="62.866667, -66.45">Gabriels Island</place>, which
+      <date date="1576-08-12">The 12.</date> wee set saile towardes an Island, called the <place>Gabriels Island</place>, which
       was 10 leagues then from vs.
     </para>
 
     <para>
-      We espied a sound, and bare with it, and came to a Sandie Baye, where we
+      We espied a sound, and bare with it, and came to a <place>Sandie Baye</place>, where we
       came to an anker, the land being East southeast off vs, and there we rode
       al night in 8. fathome water. It floweth there at a Southeast Moone. We
-      called it Priors sownd, being from the <place latlong="62.866667, -66.45">Gabriels Island</place>, tenne leagues.
+      called it <place>Priors sownd</place>, being from the <place>Gabriels Island</place>, tenne leagues.
     </para>
 
     <para>
-      The 14, we waied, and ranne into another sownde, where wee ankered in 8.
+      <date date="1576-08-14">The 14</date>, we waied, and ranne into <place>another sownde</place>, where wee ankered in 8.
       fathome water, faire sand, and black oaze, and there calked our ship, being
       weake from the wales vpward, and tooke in fresh water.
     </para>
 
     <para>
-      The 15. day we waied, and sailed to Priors Bay, being a mile from thence.
+      <date date="1576-08-15">The 15. day</date> we waied, and sailed to Priors Bay, being a mile from thence.
     </para>
 
     <para>
-      The 16. day was calme, and we rode still, without yce, but presently within
+      <date date="1576-08-16">The 16. day</date> was calme, and we rode still, without yce, but presently within
       two houres it was frozen round about the ship, a quarter of an ynch thicke,
       and that day very faire, and calme.
     </para>
 
     <para>
-      The 17. day we waied, and came to Thomas Williams Island.
+      <date date="1576-08-17">The 17. day</date> we waied, and came to <place>Thomas Williams Island</place>.
     </para>
 
     <para>
-      The 18. day we sailed North northwest, and ankered againe in
-      23. fathome, and tough oaze, vnder Burchers Island, which is from
-      the former Island, ten leagues.
+      <date date="1576-08-18">The 18. day</date> we sailed North northwest, and ankered againe in
+      23. fathome, and tough oaze, vnder <place>Burchers Island</place>, which is from
+      <place>the former Island</place>, ten leagues.
     </para>
 
     <para>
       <sidenote>Sight of the Countrey people.</sidenote> The 19. day in the morning, being
-      calme, and no winde, the Captaine and I tooke our boat, with eight men in
+      calme, and no winde, <person>the Captaine</person> and <person>I</person> tooke our boat, with eight men in
       her, to rowe vs a shoare, to see if there were any people, or no, and going
-      to the toppe of the Island, we had sight of seuen boates, which came rowing
-      from the East side, toward that Island: whereupon we returned aboord
+      to <place>the toppe of the Island</place>, we had sight of seuen boates, which came rowing
+      from the East side, toward <place>that Island</place>: whereupon we returned aboord
       againe: at length we sent our boate with fiue men in her, to see whither
       they rowed, and so with a white cloth brought one of their boates with
       their men along the shoare, rowing after our boate, till such time as they
@@ -266,7 +266,7 @@
     </para>
 
     <para>
-      The twentieth day wee wayed, and went to the Eastside of this island, and I
+      <date date="1576-08-20">The twentieth day</date> wee wayed, and went to the Eastside of this island, and I
       and the Captaine, with foure men more went on shoare, and there we sawe
       their houses, and the people espying vs, came rowing towards our boate:
       whereupon we plied toward our boate: and wee being in our boate and they
@@ -279,34 +279,34 @@
     </para>
 
     <para>
-      The next day in the morning, we stoode in neere the shoare, and shotte off
+      <date date="1576-08-21">The next day</date> in the morning, we stoode in neere the shoare, and shotte off
       a fauconet, and sounded our trumpet, but we could hear nothing nothing of
-      our men: this sound wee called the fiue mens sound, and plyed out of it,
+      our men: this sound wee called <place>the fiue mens sound</place>, and plyed out of it,
       but ankered againe in thirtie fathome, and ooze: and riding there all
       night, in the morning, the snow lay a foote thicke vpon our hatches.
     </para>
 
     <para>
-      The 22. day in the morning we wayed, and went againe to the place we lost
+      <date date="1576-08-22">The 22. day</date> in the morning we wayed, and went againe to the place we lost
       our men, and our boate. We had sight of foureteene boates, and some came
       neere to vs, but wee could learne nothing of our men: among the rest, we
       intised one boate to our ships side, with a Bell, and in giuing him the
       Bell, we tooke him, and his boate, and so kept him, and so rowed downe to
-      Thomas Williams Island, and there ankered all night.
+      <place>Thomas Williams Island</place>, and there ankered all night.
     </para>
 
     <para>
-      <sidenote>They returne.</sidenote> The 26. day we waied, to come homeward, and by
-      12. of the clocke at noone, we were thwart of Trumpets Island.
+      <sidenote>They returne.</sidenote> <date date="1576-08-26">The 26. day</date> we waied, to come homeward, and by
+      12. of the clocke at noone, we were thwart of <place>Trumpets Island</place>.
     </para>
 
     <para>
-      The next day we came thwart of Gabriels Island, and at 8. of the clocke at
-      night, we had the Cape Labrador as we supposed West from vs, ten leagues.
+      <date date="1576-08-27">The next day</date> we came thwart of <place>Gabriels Island</place>, and at 8. of the clocke at
+      night, we had the <place>Cape Labrador</place> as we supposed West from vs, ten leagues.
     </para>
 
     <para>
-      The 28. day we went our course Southeast.
+      <date date="1576-08-28">The 28. day</date> we went our course Southeast.
     </para>
 
     <para>
@@ -314,7 +314,7 @@
     </para>
 
     <para>
-      The first day of September in the morning we had sight of the land of
+      <date date="1576-09-01">The first day of September</date> in the morning we had sight of the land of
       Friseland being eight leagues from vs but we could not come neerer it, for
       the monstrous yce that lay about it. From this day, till the sixth of this
       Moneth, we ranne along Island, and had the South part of it at eight of the
@@ -322,25 +322,25 @@
     </para>
 
     <para>
-      The seuenth day of this moneth we had a very terrible storme, by force
-      whereof, one of our men was blowen into the sea out of our waste, but he
-      caught hold of the foresaile sheate, and there held till the Captaine
+      <date date="1576-09-07">The seuenth day of this moneth</date> we had a very terrible storme, by force
+      whereof, <person>one of our men</person> was blowen into the sea out of our waste, but he
+      caught hold of the foresaile sheate, and there held till <person>the Captaine</person>
       pluckt him againe into the ship.
     </para>
 
     <para>
-      The 25 day of this moneth we had sight of the <place latlong="59, -3">Island of Orkney</place>, which was
+      <date date="1576-09-25">The 25 day of this moneth</date> we had sight of the <place>Island of Orkney</place>, which was
       then East from vs.
     </para>
 
     <para>
-      <sidenote>The Sheld.</sidenote> The first day of October we had sight of the Sheld,
-      and so sailed about the coast, and ankered at Yarmouth, and the next day we
-      came into Harwich.
+      <sidenote>The Sheld.</sidenote> <date date="1576-10-01">The first day of October</date> we had sight of the Sheld,
+      and so sailed about the coast, and ankered at <place>Yarmouth</place>, and the next day we
+      came into <place>Harwich</place>.
     </para>
 
     <para>
-      The language of the people of Meta incognita.
+      The language of the people of <place>Meta incognita</place>.
     </para>
 
     <list>
@@ -364,28 +364,28 @@
     </list>
   </extract>
 
-  <extract>
+  <extract id="E002">
       <title>
-        The second voyage of Master Martin Frobisher, made to the West and Northwest Regions, in the yeere 1577. with a description of the Countrey, and people: Written by Master Dionise Settle.
+        The second voyage of <person>Master Martin Frobisher</person>, made to the West and Northwest Regions, in the yeere 1577. with a description of the Countrey, and people: Written by <person>Master Dionise Settle</person>.
       </title>
 
       <para>
         On Whitsunday, being <date date="1577-05-26">the sixe and twentieth of May, in the yeere of our
-        Lord God 1577</date>. Captaine Frobisher departed from <place>Blacke Wall</place>, with one of
-        the Queenes Maiesties ships, called The Aide, of nine score tunnes, or
+        Lord God 1577</date>. <person>Captaine Frobisher</person> departed from <place>Blacke Wall</place>, with one of
+        <person>the Queenes Maiesties</person> ships, called <ship>The Aide</ship>, of nine score tunnes, or
         thereabouts: and two other Little Barkes likewise, the one called The
-        Gabriel, whereof Master Fenton, a Gentleman of my Lord of Warwikes, was
+        <ship>Gabriel</ship>, whereof <person>Master Fenton</person>, a Gentleman of <person>my Lord of Warwikes</person>, was
         Captaine: accompanied with seuen score Gentlemen, souldiers, and sailers,
         well furnished with victuals, and other prouision necessarie for one halfe
         yeere, on this his second voyage, for the further discouering of the
         passage to <place>Cathay</place>, and other Countreys, thereunto adiacent, by West and
         Northwest nauigations: which passage or way, is supposed to bee on the
-        North and Northwest part of America: and the said America to be an Island
+        North and Northwest part of <place>America</place>: and the said <place>America</place> to be an Island
         inuironed with the sea, where through our Merchants may haue course and
         recourse with their merchandize, from these our Northernmost parts of
         <place>Europe</place>, to those Orientall coasts of <place>Asia</place>, in much shorter time, and with
         greater benefite then any others, to their no little commoditie and profite
-        that do or shall frequent the same. Our said Captaine and General of this
+        that do or shall frequent the same. <person>Our said Captaine and General</person> of this
         present voyage and company hauing the yeere before, with two little
         pinnesses, to his great danger, and no small commendations, giuen a worthy
         attempt towards the performance thereof, is also prest, when occasion shall
@@ -399,11 +399,11 @@
       <para>
         <sidenote>The Islands Orcades, or Orkney.</sidenote> Vpon which considerations, the
         day and yeere before expressed, we departed from <place>Blacke Wall</place> to <place>Harwich</place>,
-        where making an accomplishment of things necessary, <date>the last of May</date> we
-        hoised vp sailes, and with a merrie winde the <date>7. of Iune</date> we arriued at the
+        where making an accomplishment of things necessary, <date day="1577-05-31">the last of May</date> we
+        hoised vp sailes, and with a merrie winde the <date day="1577-06-07">7. of Iune</date> we arriued at the
         <place>Islands called Orcades, or vulgarly Orkney</place>, being in number 30. subiect and
         adiacent to <place>Scotland</place> where we made prouision of fresh water; in the doing
-        wherof our Generall licensed the Gentlemen and souldiers for their
+        wherof <person>our Generall</person> licensed the Gentlemen and souldiers for their
         recreation to go on shore. <sidenote>The Orcadians upon smal occasion flee
         their home.</sidenote> At our landing, the people fled from their poore cottages,
         with shrikes and alarms, to warne their neighbours of enemies, but by
@@ -428,8 +428,8 @@
 
       <para>
         <sidenote>In Iune and Iuly no night in those West and Northwest regions.</sidenote>
-        We departed herehence the <date>8. of Iune</date>, and followed our course betweene West
-        and Northwest, vntill the <date>4. of Iuly</date>: all which time we had no night, but
+        We departed herehence the <date date="1577-06-08">8. of Iune</date>, and followed our course betweene West
+        and Northwest, vntill the <date date="1577-07-04">4. of Iuly</date>: all which time we had no night, but
         that easily, and without any impediment we had when we were so disposed,
         the fruition of our bookes, and other pleasures to passe away the time: a
         thing of no small moment, to such as wander in vnknowen seas, and long
@@ -441,7 +441,7 @@
 
       <para>
         <sidenote>Great abundance of Firre trees floting in the sea.</sidenote> All along
-        these seas, after we were <date>sixe dayes sailing from Orkney</date>, we met floting in
+        these seas, after we were <date date="1577-06-14">sixe dayes sailing from Orkney</date>, we met floting in
         the sea, great Firre trees, which as we iudged, were with the furie of
         great floods rooted vp, and so driuen into the sea. Island hath almost no
         other wood nor fuell, but such as they take vp vpon their coastes.
@@ -451,7 +451,7 @@
       </para>
 
       <para>
-        The <date>4. of Iuly</date> we came within the making of <place>Frisland</place>. From this shoare
+        The <date date="1577-07-04">4. of Iuly</date> we came within the making of <place>Frisland</place>. From this shoare
         10. or 12. leagues, we met great Islands of yce, of halfe a mile, some
         more, some lesse in compasse, shewing aboue the sea, 30. or 40. fathoms,
         and as we supposed fast on ground, where with our lead we could scarse
@@ -472,8 +472,8 @@
 
       <para>
         All along this coast yce lieth, as a continuall bulwarke, and so defendeth
-        the countrey, that those that would land there, incur great danger. Our
-        Generall 3. dayes together attempted with the ship boate to haue gone on
+        the countrey, that those that would land there, incur great danger. <person>Our
+        Generall</person> 3. dayes together attempted with the ship boate to haue gone on
         shoare, which for that without great danger he could not accomplish, he
         deferred it vntill a more conuenient time. All along the coast lie very
         high mountains covered with snow, except in such places, where through the
@@ -487,15 +487,15 @@
       </para>
 
       <para>
-        From hence we departed <date>the eight of Iuly</date>: and the <date>16. of the same</date>, we came
-        with the making of land, which land our Generall the yeere before had named
+        From hence we departed <date date="1577-07-08">the eight of Iuly</date>: and the <date date="1577-07-16">16. of the same</date>, we came
+        with the making of land, which land <person>our Generall</person> the yeere before had named
         The <place>Queenes foreland</place>, being an Island as we iudge, lying neere the supposed
         continent with <place>America</place>: and on the other side, opposite to the same, one
-        other Island called <place>Halles Isle</place>, after the name of the Master of the ship,
-        neere adiacent to the firme land, supposed continent with Asia.
+        other Island called <place>Halles Isle</place>, after the name of <person>the Master of the ship</person>,
+        neere adiacent to the firme land, supposed continent with <place>Asia</place>.
         <sidenote>Frobishers streight.</sidenote> Betweene the which two Islands there is a large
-        entrance or streight, called Frobishers streight, after the name of our
-        Generall, the firste finder thereof. This said streight is supposed to haue
+        entrance or streight, called <place>Frobishers streight</place>, after the name of <person>our
+        Generall</person>, the firste finder thereof. This said streight is supposed to haue
         passage into the <place>sea of Sur</place>, which I leaue vnknowen as yet.
       </para>
 
@@ -528,9 +528,9 @@
         <sidenote>Captaine Frobisher his speciall care and diligence for the
         benefite of his Prince and Countrey.</sidenote> At our first comming, the straights
         seemed to be shut vp with a long mure of yce, which gaue no litle cause of
-        discomfort vnto vs all: but our Generall, (to whose diligence imminent
+        discomfort vnto vs all: but <person>our Generall</person>, (to whose diligence imminent
         dangers, and difficult attempts seemed nothing, in respect of his willing
-        mind, for the commoditie of his Prince and Countrey,) with two little
+        mind, for the commoditie of <person>his Prince</person> and Countrey,) with two little
         Pinnesses prepared of purpose, passed twise thorow them to the East shore,
         and the Ilands thereunto adiacent: and the ship, with the two Barks lay off
         and on something further into the sea, from the danger of the yce.
@@ -540,13 +540,13 @@
         <sidenote>The order of the people appearing on shoare.</sidenote> Whilest he was
         searching the Countrey neere the shoare, some of the people of the Countrey
         shewed themselues leaping and dauncing, with strange shrikes and cries,
-        which gaue no little admiration to our men. Our Generall desirous to allure
+        which gaue no little admiration to our men. <person>Our Generall</person> desirous to allure
         them vnto him by faire meanes, caused kniues, and other things to be
         profered vnto them, which they would not take at our hands: but being laid
         on the ground, and the party going away, they came and tooke vp, leauing
         some thing of theirs to counteruaile the same. <sidenote>Fierce and bold
-        people.</sidenote> At the length two of them leauing their weapons, came downe to our
-        Generall and Master, who did the like to them, commanding the company to
+        people.</sidenote> At the length two of them leauing their weapons, came downe to <person>our
+        Generall and Master</person>, who did the like to them, commanding the company to
         stay, and went vnto them: who after certaine dumbe signes, and mute
         congratulations, began to lay handes vpon them, but they deliuerly escaped,
         and ranne to their bowes and arrowes, and came fiercely vpon them, (not
@@ -556,8 +556,8 @@
       </para>
 
       <para>
-        Whilest our Generall was busied in searching the Countrey, and those
-        Islands adiacent on the Eastshoare, the ship and barkes hauing great care,
+        Whilest <person>our Generall</person> was busied in searching the Countrey, and <place>those
+        Islands</place> adiacent on the Eastshoare, the ship and barkes hauing great care,
         not to put farre into the sea from him, for that he had small store of
         victuals, were forced to abide in a cruell tempest, chancing in the night,
         amongst and in the thickest of the yce, which was so monstrous, that euen
@@ -570,15 +570,15 @@
         gunner. Master Iackman. Andrew Dier.</sidenote> If we had not incurred this danger
         amongst those monstrous Islands of yce, we should haue lost our Generall
         and Master, and the most of our best sailers, which were on shoare
-        destitute of victuals: but by the valure of our Master Gunner, Master
-        Iackman, and Andrew Dier, the Masters Mates, men expert both in nauigation,
+        destitute of victuals: but by the valure of our Master Gunner, <person>Master
+        Iackman</person>, and <person>Andrew Dier</person>, the Masters Mates, men expert both in nauigation,
         and other good qualities, wee were all content to incurre the dangers afore
         rehearsed, before we would with our owne safetie, runne into the seas, to
-        the destruction of our sayd Generall, and his company.
+        the destruction of <person>our sayd Generall</person>, and his company.
       </para>
 
       <para>
-        The day following, being the <date>19. of Iulie</date>, our captaine returned to the
+        The day following, being the <date date="1577-07-19">19. of Iulie</date>, <person>our captaine</person> returned to the
         ship, with report of supposed riches, which shewed it selfe in the bowels
         of those barren mountaines, wherewith wee were all satisfied.
       </para>
@@ -586,11 +586,11 @@
       <para>
         <sidenote>Iackmans sound.</sidenote> Within foure daies after we had bene at the
         entrance of the streights, the Northwest and West winds dispersed the yce
-        into the sea, and made vs a large entrance into the streights, so that
-        without any impediment, on the 19. of Iulie we entred them, and the 20.
-        thereof, our Generall and Master with great diligence, sought out and
+        into the sea, and made vs a large <place>entrance into the streights</place>, so that
+        without any impediment, on <date date="1577-07-19">the 19. of Iulie</date> we entred them, and <date date="1577-07-20">the 20.
+        thereof</date>, <person>our Generall and Master</person> with great diligence, sought out and
         sounded the West shoare, and found out a faire Harborough for the ship and
-        barkes to ride in, and named it after our Masters mate, Iackmans sound, and
+        barkes to ride in, and named it after our Masters mate, <placce>Iackmans sound</placce>, and
         brought the ship, barkes and all their company to safe anker, except one
         man, which died by Gods visitation.
       </para>
@@ -601,7 +601,7 @@
         entred the lande, hauing speciall care by exhortations, that at our
         entrance thereinto, wee should all with one voyce, kneeling vpon our knees,
         chiefly thanke God for our safe arriuall: secondly beseech him, that it
-        would please his diuine Maiestie, long to continue our Queene, for whom he,
+        would please his diuine Maiestie, long to continue <person>our Queene</person>, for whom he,
         and all the rest of our company in this order tooke possession of the
         <sidenote>Possession taken.</sidenote> Countrey: and thirdly, that by our Christian
         studie and endeuour, those barbarous people trained vp in Paganisme, and
@@ -614,9 +614,9 @@
       </para>
       
       <para>
-        These things in this order accomplished, our Generall commanded all the
-        company to be obedient in things needfull for our owne safegard, to Master
-        Fenton, Master Yorke, and Master Beast his Lieutenant, while he was
+        These things in this order accomplished, <person>our Generall</person> commanded all the
+        company to be obedient in things needfull for our owne safegard, to <person>Master
+        Fenton</person>, <person>Master Yorke</person>, and <person>Master Beast</person> his Lieutenant, while he was
         occupied in other necessarie affaires, concerning our comming thither.
       </para>
 
@@ -645,10 +645,10 @@
       </para>
 
       <para>
-        Our Generall certaine dayes searched this supposed continent with America,
+        <person>Our Generall</person> certaine dayes searched this supposed continent with <place>America</place>,
         and not finding the commodity to answere his expectation, after he had made
         triall thereof he departed thence with two little barks, and men sufficient
-        to the East shore being the supposed continent of Asia, and left the ship
+        to the East shore being <place>the supposed continent of Asia</place>, and left the ship
         with most of the Gentlemen, souldier, and sailers, vntill such time as he
         either thought good to send or come for them.
       </para>
@@ -671,9 +671,9 @@
       </para>
 
       <para>
-        After our Generall had found out good harborough for the ship and barks to
+        After <person>our Generall</person> had found out good harborough for the ship and barks to
         anker in, and also such store of supposed gold ore as he thought himselfe
-        satisfied withall, he returned to the Michael, whereof Master Yorke
+        satisfied withall, he returned to the <ship>Michael</ship>, whereof <person>Master Yorke</person>
         aforesaid was Captaine, accompanied with our master and his Mate: who
         coasting along the West shore not farre from whence the ship rode, they
         perceived a faire harborough, and willing to sound the same, at the
@@ -692,11 +692,11 @@
       <para>
         <sidenote>Master Philpot. Master Beast.</sidenote> On the same day after
         consultation had, all the Gentlemen, and others likewise that could be
-        spared from the ship, vnder the conduct and leading of Master Philpot,
-        (vnto whom in our Generall his absence, and his Lieutenant Master Beast, al
+        spared from the ship, vnder the conduct and leading of <person>Master Philpot</person>,
+        (vnto whom in our Generall his absence, and his Lieutenant <person>Master Beast</person>, al
         the rest were obedient) went a shore, determining to see, if by faire means
         we could either allure them to familiarity, or otherwise take some of them,
-        and so attaine to some knowledge of those men whom our Generall lost the
+        and so attaine to some knowledge of those men whom <person>our Generall</person> lost the
         yeere before.
       </para>
 
@@ -754,15 +754,15 @@
 
       <para>
         <sidenote>Our departure from the West shoare.</sidenote> Thus returning to our ship
-        the 3. August, we departed from the West shore supposed firme with America,
-        after we had ankered there 13. dayes: and so the 4. thereof we came to our
-        Generall on the East shore and ankered in a faire Harborough name Anne
-        Warwickes sound, vnto which is annexed an Island both named after the
-        Countesse of Warwicke, Anne Warwickes sound and Isle.
+        <date date="1577-08-03">the 3. August</date>, we departed from <place>the West shore supposed firme with America</place>,
+        after we had ankered there 13. dayes: and so <date date="1577-08-04">the 4. thereof</date> we came to <person>our
+        Generall</person> on the East shore and ankered in a faire Harborough name <place>Anne
+        Warwickes sound</place>, vnto which is annexed <place>an Island both named after the
+        Countesse of Warwicke, Anne Warwickes sound and Isle</place>.
       </para>
 
       <para>
-        In this Isle our Generall thought good for this voyage, to fraight both the
+        In this Isle <person>our Generall</person> thought good for this voyage, to fraight both the
         ship and barkes, with such stone or supposed gold minerall, as he iudged to
         counteruaile the charges of his first, and this his second nauigation to
         these Countreys.
@@ -782,7 +782,7 @@
       </para>
 
       <para>
-        They also made signes or tokens of their king, whom they called Cacough,
+        They also made signes or tokens of <person>their king, whom they called Cacough</person>,
         and how he was carried on mens shoulders, and a man farre surmounting any
         of our company, in bignesse and stature.
       </para>
@@ -801,7 +801,7 @@
       <para>
         <sidenote>The people shew themselues the third time.</sidenote> After 4. dayes some
         of them shewed themselues vpon the firme land, but not where they were
-        before. Our General very glad thereof, supposing to heare of our men, went
+        before. <person>Our General</person> very glad thereof, supposing to heare of our men, went
         from the Island, with the boat, and sufficient company with him. They
         seemed very glad, and allured him about a certaine point of the land:
         behind which they might perceiue a company of the crafty villaines to lye
@@ -812,10 +812,10 @@
 
       <para>
         <sidenote>The people shew themselues againe on firme land.</sidenote> An other time
-        as our said Generall was coasting the Countrey with two little Pinnesses,
+        as <person>our said Generall</person> was coasting the Countrey with two little Pinnesses,
         whereby at our returne he might make the better relation thereof, three of
         the crafty villans, with a white skin allured vs to them. <sidenote>Their
-        first meanes to allure vs to shore.</sidenote> Once again, our Generall, for that he
+        first meanes to allure vs to shore.</sidenote> Once again, <person>our Generall</person>, for that he
         hoped to heare of his men, went towards them: at our comming neere the
         shore whereon they were, we might perceiue a number of them lie hidden
         behind great stones, and those 3. in sight labouring by all meanes possible
@@ -841,19 +841,19 @@
       </para>
 
       <para>
-        <sidenote>Compassion to cure a crafty lame man.</sidenote> Our Generall hauing
+        <sidenote>Compassion to cure a crafty lame man.</sidenote> <person>Our Generall</person> hauing
         compassion of his impotency, thought good (if it were possible) to cure him
         thereof: wherefore he caused a souldier to shoote at him with his Caleeuer,
         which grased before his face. The counterfeit villeine deliuerly fled,
         without any impediment at all, and got him to his bow and arrowes, and the
         rest from their lurking holes, with their weapons, bowes, arrowes, slings,
-        and darts. Our Generall caused some caleeuers to be shot off at them,
+        and darts. <person>Our Generall</person> caused some caleeuers to be shot off at them,
         whereby some being hurt, they might hereafter stand in more feare of vs.
       </para>
 
       <para>
-        This was all the answere for this time we could haue of our men, or of our
-        Generals letter. Their crafty dealing at these three seuerall times being
+        This was all the answere for this time we could haue of our men, or of <person>our
+        Generals</person> letter. Their crafty dealing at these three seuerall times being
         thus manifest vnto vs, may plainely shew their disposition in other things
         to be correspondent. We iudged that they vsed these stratagemes, thereby to
         haue caught some of vs, for the deliuering of the man, woman and child whom
@@ -1057,8 +1057,8 @@
       </para>
 
       <para>
-        <sidenote>Description of the Countreis.</sidenote> The Countreys on both sides the
-        streights lye very high with rough stony mountaines, and great quantitie of
+        <sidenote>Description of the Countreis.</sidenote> <place>The Countreys on both sides the
+        streights</place> lye very high with rough stony mountaines, and great quantitie of
         snow thereon. There is very little plaine ground and no grasse, except a
         little which is much like vnto mosse that groweth on soft ground, such as
         we get Turffes in. There is no wood at all. To be briefe there is nothing
@@ -1138,21 +1138,21 @@
       </para>
 
       <para>
-        The 24. of August after we had satisfied our minds with fraight sufficient
+        <date date="1577-08-24">The 24. of August</date> after we had satisfied our minds with fraight sufficient
         for our vessels, though not our couetous desires with such knowledge of the
         Countrey people, and other commodities as are before rehearsed, we departed
-        therehence. <sidenote>Our departure from those Countreys.</sidenote> The 17. of
-        September we fell with the lands end of England, and so sailed to Milford
-        Hauen, from whence our Generall rode to the Court for order, to what Port
+        therehence. <sidenote>Our departure from those Countreys.</sidenote> <date date="1577-09-17">The 17. of
+        September</date> we fell with <place>the lands end of England</place>, and so sailed to <place>Milford
+        Hauen</place>, from whence <person>our Generall</person> rode to the Court for order, to what Port
         or Hauen to conduct the ship.
       </para>
 
       <para>
         <sidenote>How and when we lost our 2. Barks which God neuerthelesse
-        restored.</sidenote> We lost our two Barkes in the way homeward, the one the 29. of
-        August, the other the 21. of the same moneth, by occasion of great tempest
-        and fogge. Howbeit God restored the one to Bristowe, and the other made his
-        course by Scotland to Yermouth. In this voyage we lost two men, one in the
+        restored.</sidenote> We lost our two Barkes in the way homeward, the one <date date="1577-08-29">the 29. of
+        August</date>, the other <date date="1577-08-21">the 21. of the same moneth</date>, by occasion of great tempest
+        and fogge. Howbeit God restored the one to <place>Bristowe</place>, and the other made his
+        course by <place>Scotland</place> to <place>Yermouth</place>. In this voyage we lost two men, one in the
         way by Gods visitation, and the other homeward cast ouer borde with a surge
         of the Sea.
       </para>
@@ -1176,23 +1176,23 @@
       </para>
 
       <para>
-        Our generall named sundry Islands, Mountaines, Capes, and Harboroughs after
+        <person>Our generall</person> named sundry Islands, Mountaines, Capes, and Harboroughs after
         the names of diuers Noble men and other gentlemen his friends, as wel on
         the one shore as also on the other.
       </para>
   </extract>
 
-  <extract>
+  <extract id="E003">
       <title>
-        The third and last voyage vnto Meta Incognita, made by M. Martin Frobisher, in the yeere 1578. Written by Thomas Ellis.
+        The third and last voyage vnto <place>Meta Incognita</place>, made by <person>M. Martin Frobisher</person>, in the yeere 1578. Written by <person>Thomas Ellis</person>.
       </title>
 
       <para>
-        These are to let you know, that vpon the <date day="1578-05-25">25. of May</date>, the Thomas Allen being
-        Viceadmirall whose Captaine was M. Yorke, M. Gibbes Master, Christopher
-        Hall Pilot, accompanied with the Reareadmiral named the Hopewel, whose
-        Captaine was M. Henrie Carewe, the M. Andrewe Dier, and certaine other
-        ships came to <place lat="51.442" long="0.369">Grauesend</place>, where wee ankered and abode the comming of our
+        These are to let you know, that vpon the <date day="1578-05-25">25. of May</date>, the <ship>Thomas Allen</ship> being
+        Viceadmirall whose Captaine was <person>M. Yorke</person>, <person>M. Gibbes</person> Master, <person>Christopher
+        Hall</person> Pilot, accompanied with the Reareadmiral named the <ship>Hopewel</ship>, whose
+        Captaine was <person>M. Henrie Carewe</person>, the <person>M. Andrewe Dier</person>, and certaine other
+        ships came to <place>Grauesend</place>, where wee ankered and abode the comming of our
         Fleete which were not yet come.
       </para>
 
@@ -1209,17 +1209,17 @@
         <date day="1578-05-31">the last of the said moneth of May</date>, which day we hoised our sailes, and
         committing ourselues to the conducting of Almightie God, we set forward
         toward the west Countrey in such luckie wise and good successe, that by <date day="1578-06-05">the
-        fift of Iune</date> we passed <place lat="" long="">the Dursies</place>, being the vtmost part of <place lat="" long="">Ireland</place> to the
+        fift of Iune</date> we passed <place>the Dursies</place>, being the vtmost part of <place>Ireland</place> to the
         Westward.
       </para>
 
       <para>
         And here it were not much amisse nor farre from our purpose, if I should a
         little discourse and speake of our aduentures and chances by the way, as
-        our landing at <place lat="" long="">Plimmouth</place>, as also the meeting certaine poore men, which
+        our landing at <place>Plimmouth</place>, as also the meeting certaine poore men, which
         were robbed and spoyled of all that they had by Pirates and Rouers: amongst
-        whom was a man of <place lat="" long="">Bristow</place>, on whom our Generall vsed his liberality, and
-        sent him away with letters into <place lat="" long="">England</place>.
+        whom was a man of <place>Bristow</place>, on whom our Generall vsed his liberality, and
+        sent him away with letters into <place>England</place>.
       </para>
 
       <para>
@@ -1229,7 +1229,7 @@
         sometime passing at pleasure with a wished Easterne wind, sometimes
         hindered of our course againe by the Westerne blasts, vntill <date day="1578-06-20">the 20. day of
         the foresayd moneth of Iune</date>, on which day in the morning we fell with
-        <place lat="" long="">Frizeland</place>, which is a very hie and cragged land and was almost cleane
+        <place>Frizeland</place>, which is a very hie and cragged land and was almost cleane
         couered with snow, so that we might see nought but craggie rockes and the
         topes of high and huge hilles, sometimes (and for the most part) all
         couered with foggie mists. There might we also perceiue the great Isles of
@@ -1242,7 +1242,7 @@
         Thus sailing alongst the coast, at the last we saw a place somewhat voyd of
         yce, where our Generall (accompanied with certaine other) went a shore,
         where they sawe certaine tents made of beasts skinnes; and boates much the
-        like vnto theirs of <place lat="" long="">Meta Incognita</place>. The tents were furnished with flesh,
+        like vnto theirs of <place>Meta Incognita</place>. The tents were furnished with flesh,
         fish, skins, and other trifles: amonst the which was found a boxe of
         nailes: whereby we did coniecture, that they had either Artificers amongst
         them, or els a traffike with some other nation. The men ran away, so that
@@ -1267,33 +1267,33 @@
       </para>
 
       <para>
-        But one of our small Barkes named the Michael, whose Captaine was Master
-        Kinderslie, the master Bartholomew Bull, lost our company, insomuch that we
+        But one of our small Barkes named the <ship>Michael</ship>, whose Captaine was <person>Master
+        Kinderslie</person>, the master <person>Bartholomew Bull</person>, lost our company, insomuch that we
         could not obteine the sight of her many dayes after, of whom I meane to
         speak further anon when occassion shall be ministred, and opportunitie
         serue. Thus we continued in our course vntill <date day="1578-07-02">the second of Iuly</date>, on which
-        day we fell with the <place lat="" long="">Queenes foreland</place>, where we saw so much yce, that we
-        thought it vnpossible to get into <place lat="" long="">the Straights</place>; yet at the last we gaue
+        day we fell with the <place>Queenes foreland</place>, where we saw so much yce, that we
+        thought it vnpossible to get into <place>the Straights</place>; yet at the last we gaue
         the aduenture and entred the yce.
       </para>
 
       <para>
         <sidenote>The Michael. The Iudith. M. Fenton. Charles Iackman.</sidenote> Being
-        amongst it wee sawe the Michael, of whom I spake before, accompanied with
-        the Iudith, whose Captaine was Master Fenton, the Master Charles Iackman,
+        amongst it wee sawe the <ship>Michael</ship>, of whom I spake before, accompanied with
+        the <ship>Iudith</ship>, whose Captaine was <person>Master Fenton</person>, the Master <person>Charles Iackman</person>,
         bearing into the foresayd yce, farre distant from vs, who in a storme that
         fell that present night, (whereof I will at large God willing, discourse
-        hereafter) were seuered from vs, and being in, wandred vp and downe the
-        Straights amongst the yce many dayes in great perill, till at the last, by
+        hereafter) were seuered from vs, and being in, wandred vp and downe <place>the
+        Straights</place> amongst the yce many dayes in great perill, till at the last, by
         the prouidence of God, they came safely to harbor in their wished Port in
-        the <place lat="" long="">Countesse of Warwicks sound</place>, the <date day="1578-07-20">20. of Iuly</date> aforesayd, tenne dayes
+        the <place>Countesse of Warwicks sound</place>, the <date day="1578-07-20">20. of Iuly</date> aforesayd, tenne dayes
         before any of the other shippes: <sidenote>The Countesse of Warwicks
           sound.</sidenote> who going on shore found where the people of the Countrey had bene,
         and had hid their provision in great heapes of stones being both of flesh
         and fish, which they had killed; whereof wee also found great store in
         other places after our arriual. They found also diuers engins, as bowes,
         slings, and darts. They found likewise certaine pieces of the Pinnesse
-        which our Generall left there the yeere before, which Pinnesse he had
+        which <person>our Generall</person> left there the yeere before, which Pinnesse he had
         sunke, minding to haue it againe the next yeere.
       </para>
 
@@ -1306,7 +1306,7 @@
 
       <para>
         <sidenote>Our entrance and passage &amp;c.</sidenote> At the first entring into the yce
-        in the mouth of the Straights, our passage was very narrow, and difficult
+        in <place>the mouth of the Straights</place>, our passage was very narrow, and difficult
         but being once gotten in, we had a faire open place without any yce for the
         most part, being a league in compasse, the yce being round about vs and
         inclosing vs, as it were, within the pales of a parke. In which place,
@@ -1321,7 +1321,7 @@
       </para>
 
       <para>
-        <sidenote>Barke Dionyse.</sidenote> At the last the Barke Dionyse being but a weake
+        <sidenote>Barke Dionyse.</sidenote> At the last the Barke <ship>Dionyse</ship> being but a weake
         ship, and bruised afore amongst the yce, being so leake that no longer she
         could tarry aboue the water, sanke without sauing any of the goods which
         were within her: which sight so abashed the whole Fleete, that we thought
@@ -1368,7 +1368,7 @@
         hurt, neither any of them wanted, sauing onely they of whom I spake before
         and the ship which was lost, then at the last we hoised our sailes, and lay
         bulting off and on, till such time as it would please God to take away the
-        yce that wee might get into <place lat="" long="">the Straights</place>.
+        yce that wee might get into <place>the Straights</place>.
       </para>
 
       <para>
@@ -1386,26 +1386,26 @@
         that one shippe could not see another. <sidenote>A current to the
         Northwest.</sidenote> Therefore we were faine to beare a small sayle and to obserue
         the time: but there ran such a current of a tide, that it set vs to the
-        Northwest of the <place lat="" long="">Queenes foreland</place> the backside of all <place lat="" long="">the Straights</place>: where
+        Northwest of the <place>Queenes foreland</place> the backside of all <place>the Straights</place>: where
         (through the contagious fogge hauing no sight either of Sunne or Starre) we
         scarce knew where we were. In this fogge <date day="1578-07-10">the tenth of Iuly</date> we lost the
-        company of the Viceadmirall, the Anne Francis, the Busse of Bridgewater,
-        and the Francis of Foy.
+        company of the <ship>Viceadmirall</ship>, the <ship>Anne Francis</ship>, the <ship>Busse of Bridgewater</ship>,
+        and the <ship>Francis of Foy</ship>.
       </para>
 
       <para>
         <sidenote>The Gabriel. The people offer to traffike with vs.</sidenote> The <date day="1578-07-16">16. day</date>
-        one of our small Barkes named The Gabriel was sent by our Generall to beare
+        one of our small Barkes named The <ship>Gabriel</ship> was sent by <ship>our Generall</ship> to beare
         in with the land to descrie it, where being on land, they met with the
         people of the Countrey, which seemed very humane and ciuill, and offered to
         traffike with our men, profering them foules and skins for kniues, and
         other trifles: whose courtesie caused vs to thinke, that they had small
-        conuersation with other of <place lat="" long="">the Straights</place>.
+        conuersation with other of <place>the Straights</place>.
       </para>
 
       <para>
-        Then we bare backe againe to goe with the <place lat="" long="">Queenes foreland</place>: and <date day="1578-07-18">the
-        eighteenth day</date> wee came by <place lat="" long="">two Islands</place> whereon we went on shore, and found
+        Then we bare backe againe to goe with the <place>Queenes foreland</place>: and <date day="1578-07-18">the
+        eighteenth day</date> wee came by <place>two Islands</place> whereon we went on shore, and found
         where the people had bene: but we saw none of them. This day we were againe
         in the yce, and like to be in as great perill as we were at the first. For
         through the darknesse and obscuritie of the fogie mist, we were almost run
@@ -1445,33 +1445,33 @@
 
       <para>
         <sidenote>A faire sound betweene the Queenes foreland and Iackmans sound.</sidenote>
-        Then we espying a fayre sound, supposed it to goe into <place lat="" long="">the Straights</place>
-        betweene the <place lat="" long="">Queenes foreland</place> and <place lat="" long="">Iackmans sound</place>, which proued as we
-        imagined. For our Generall sent forth againe the Gabriel to discouer it,
+        Then we espying a fayre sound, supposed it to goe into <place>the Straights</place>
+        betweene the <place>Queenes foreland</place> and <place>Iackmans sound</place>, which proued as we
+        imagined. For <person>our Generall</person> sent forth againe the <ship>Gabriel </ship>to discouer it,
         who passed through with much difficulty: for there ran such an extreme
         current of a tide, with such a horrible gulfe, that with a fresh gale of
         wind they were scarce able to stemme it: yet at length with great trauaile
-        they passed it, and came to <place lat="" long="">the Straights</place>, where they met with the Thomas
-        Allen, the Thomas of Ipswich, and the Busse of Bridgewater: who altogether
+        they passed it, and came to <place>the Straights</place>, where they met with the <ship>Thomas
+        Allen</ship>, the <ship>Thomas of Ipswich</ship>, and the <ship>Busse of Bridgewater</ship>: who altogether
         aduentured to beare into the yce againe, to see if they could obtaine their
         wished Port. But they were so incombred that with much difficultie they
-        were able to get out againe, yet at the last they escaping, the Thomas
-        Allen, and the Gabriel bare in with the Westerne shore, where they found
+        were able to get out againe, yet at the last they escaping, the <ship>Thomas
+        Allen</ship>, and the <ship>Gabriel</ship> bare in with the Westerne shore, where they found
         harbour, and there moared their ships vntill the <date day="1578-08-04">fourth of August</date>, at which
-        time they came to vs in the <place lat="" long="">Countesse of Warwicks sound</place>. The Thomas of
-        Ipswich caught a great leake which caused her to cast againe to Seabord and
+        time they came to vs in the <place>Countesse of Warwicks sound</place>. The <ship>Thomas of
+        Ipswich</ship> caught a great leake which caused her to cast againe to Seabord and
         so was mended.
       </para>
 
       <para>
-        We sailed along still by the coast vntill we came to the <place lat="" long="">Queenes foreland</place>,
+        We sailed along still by the coast vntill we came to the <place>Queenes foreland</place>,
         at the point whereof we met with part of the gulfe aforesaid, which place
         or gulfe (as some of our Masters doe credibly report) doeth flow nine
-        houres, and ebs but three. At that point wee discouered certaine lands
-        Southward, which neither time nor opportunitie would serue to search. Then
-        being come to the mouth of <place lat="" long="">the Straights</place>, we met with the Anne Francis, who
+        houres, and ebs but three. At that point wee discouered <place>certaine lands
+        Southward</place>, which neither time nor opportunitie would serue to search. Then
+        being come to <place>the mouth of the Straights</place>, we met with the <ship>Anne Francis</ship>, who
         had laine bulting vp and downe euer since her departure alone, neuer
-        finding any of her company. We met then also the Francis of Foy, with whom
+        finding any of her company. We met then also the <ship>Francis of Foy</ship>, with whom
         againe we intended to venture and get in: but the yce was yet so thicke,
         that we were compelled againe to retyre and get vs on Sea bord.
       </para>
@@ -1498,30 +1498,30 @@
         hulled in the cleare, til the chearefull light of the day had chased away
         the noysome darkenesse of the night: at which time we set forward towards
         our wished Port: by the <date day="1578-07-30">30. day</date> wee obteined our expected desire, where we
-        found the Iudith, and the Michael: which brought no smal ioy vnto the
-        General, and great consolation to the heauie hearts of those wearied
+        found the <ship>Iudith</ship>, and the <ship>Michael</ship>: which brought no smal ioy vnto <person>the
+        General</person>, and great consolation to the heauie hearts of those wearied
         wights.
       </para>
 
       <para>
-        The <date day="1578-07-30">30. day of Iuly</date> we brought our ships into the Countesse of Warwicks
-        sound, and moared them, namely these ships, The Admirall, the Rearadmirall,
-        the Francis of Foy, the Beare Armenel, the Salomon, and the Busse of
-        Bridgewater: which being done, our Generall commaunded vs all to come a
-        shore vpon the <place lat="" long="">Countesses Iland</place>, where he set his Miners to worke vpon the
+        The <date day="1578-07-30">30. day of Iuly</date> we brought our ships into the <place>Countesse of Warwicks
+        sound</place>, and moared them, namely these ships, The <ship>Admirall</ship>, the <ship>Rearadmirall</ship>,
+        the <ship>Francis of Foy</ship>, the <ship>Beare Armenel</ship>, the <ship>Salomon</ship>, and the <ship>Busse of
+        Bridgewater</ship>: which being done, <person>our Generall</person> commaunded vs all to come a
+        shore vpon the <place>Countesses Iland</place>, where he set his Miners to worke vpon the
         Mine, giuing charge with expedition to dispatch with their lading.
       </para>
 
       <para>
-        Our Generall himselfe, accompanied with his Gentlemen, diuers times made
-        rodes into sundry partes of the Countrey, as well to finde new Mines, as
+        <person>Our Generall</person> himselfe, accompanied with his Gentlemen, diuers times made
+        rodes into <place>sundry partes of the Countrey</place>, as well to finde new Mines, as
         also to finde out and see the people of the Countrey. <sidenote>The
-        Countesse of Sussex Iland.</sidenote> He found out one Mine vpon an Island by <place lat="" long="">Beares
-        sound</place>, and named it the <place lat="" long="">Countesse of Sussex Island</place>. <sidenote>Winters
-        Fornace.</sidenote> One other was found in <place lat="" long="">Winters Fornace</place>, with diuers others, to
+        Countesse of Sussex Iland.</sidenote> He found out one Mine vpon an Island by <place>Beares
+        sound</place>, and named it the <place>Countesse of Sussex Island</place>. <sidenote>Winters
+        Fornace.</sidenote> One other was found in <place>Winters Fornace</place>, with diuers others, to
         which the ships were sent sunderly to be laden. <sidenote>Dauids Sound.</sidenote>
         In the same rodes he mette with diuers of the people of the Countrey at
-        sundry times, as once at a place called <place lat="" long="">Dauids sound</place>: who shot at our men,
+        sundry times, as once at a place called <place>Dauids sound</place>: who shot at our men,
         and very desperately gaue them the onset, being not aboue three or foure in
         number, there being of our Countrey men aboue a dozen: but seeing
         themselues not able to preuaile, they tooke themselues to flight; whom our
@@ -1531,7 +1531,7 @@
 
       <para>
         <sidenote>The policie of the people for the safetie of themselues.</sidenote> We
-        also saw of them at <place lat="" long="">Beares sound</place>, both by Sea and land in great companies:
+        also saw of them at <place>Beares sound</place>, both by Sea and land in great companies:
         but they would at all times keepe the water betweene them and vs. And if
         any of our ships chanced to be in the sound (as they came diuers times,
         because the Harbor was not very good) the ship laded, and departed againe:
@@ -1539,21 +1539,21 @@
         when as they perceiued the ships to be gone, they would not only shew
         themselues standing vpon high cliffes, and call vs to come ouer vnto them:
         but also would come in their Botes very neere to vs, as it were to brag at
-        vs: whereof our Generall hauing aduertisement, sent for the Captaines and
+        vs: whereof <person>our Generall</person> hauing aduertisement, sent for the Captaines and
         Gentlemen of the ships, to accompany and attend vpon him, with the Captaine
-        also of the Anne Francis, who was but the night before come vnto vs. For
-        they, and the Fleebote hauing lost vs the <date day="1578-07-26">26. day</date> in the great snow, put
+        also of the <ship>Anne Francis</ship>, who was but the night before come vnto vs. For
+        they, and the <ship>Fleebote</ship> hauing lost vs the <date day="1578-07-26">26. day</date> in the great snow, put
         into an harbour in the <place>Queenes foreland</place>, where they found good Oare,
         wherewith they laded themselues, and came to seeke the Generall: so that
         now we had all our Shippes, sauing one Barke, which was lost, and the
-        Thomas of Ipswich, who (compelled by what furie I knowe not) forsooke our
+        <ship>Thomas of Ipswich</ship>, who (compelled by what furie I knowe not) forsooke our
         company, and returned home without lading.
       </para>
 
       <para>
-        <sidenote>Their speedie flight at our Generalls arriual.</sidenote> Our Generall
+        <sidenote>Their speedie flight at our Generalls arriual.</sidenote> <person>Our Generall</person>
         accompanied with his Gentlemen, (of whom I spake) came altogether to the
-        <place lat="62.783" long="-65.433">Countesse of Sussex Island</place>, neere to <place lat="" long="">Beares sound</place>: where he manned out
+        <place>Countesse of Sussex Island</place>, neere to <place>Beares sound</place>: where he manned out
         certaine Pinasses, and went ouer to the people: who perceiuing his
         arriuall, fledde away with all speede, and in haste left certaine dartes
         and other engines behinde them, which we found: but the people we could not
@@ -1561,17 +1561,17 @@
       </para>
 
       <para>
-        The next morning our Generall perceiuing certaine of them in botes vpon the
+        The next morning <person>our Generall</person> perceiuing certaine of them in botes vpon the
         Sea gaue chase to them in a Pinnesse vnder saile, with a fresh gale of
         winde, but could by no meanes come neere vnto them: for the longer he
         sailed, the further off he was from them: which well shewed their cunning
         and actiuitie. Thus time wearing away, and the day of our departure
-        approching, our Generall commaunded vs to lade with all expedition, that we
-        might be againe on Seaboard with our ships: for whilest we were in the
+        approching, <person>our Generall</person> commaunded vs to lade with all expedition, that we
+        might be againe <place>on Seaboard</place> with our ships: for whilest we were in the
         Countrey, we were in continual danger of freesing in: for often snowe and
         haile often falling, the water was so much frosen and congealed in the
         night, that in the morning we could scarce rowe our botes or Pinnesses,
-        especially in Diers sound, which is a calme and still water: which caused
+        especially in <place>Diers sound</place>, which is a calme and still water: which caused
         our Generall to make the more haste, so that by the <date day="1578-08-30">30. day of August</date> we
         were all laden, and made all things ready to depart.
       </para>
@@ -1586,10 +1586,10 @@
       </para>
 
       <para>
-        For the Barke Dionyse which was lost, had in her much of their house which
+        For the Barke <ship>Dionyse</ship> which was lost, had in her much of their house which
         was prepared and should haue bene builded for them, with many other
-        implements. Also the Thomas of Ipswich which had most of their prouision in
-        her, came not into <place lat="" long="">the Streights</place> at all: neither did we see her since the
+        implements. Also the <ship>Thomas of Ipswich</ship> which had most of their prouision in
+        her, came not into <place>the Streights</place> at all: neither did we see her since the
         day we were separated in the great snow, of which I spake before. For these
         causes, hauing not their house, nor yet prouision, they were disappointed
         of their pretence to tarie, and therefore laded their ships, and so came
@@ -1598,7 +1598,7 @@
 
       <para>
         <sidenote>An house tricked and garnished with diuers trinkets.</sidenote> But before
-        we tooke shipping, we builded a litle house in the <place lat="" long="">Countesse of Warwicks
+        we tooke shipping, we builded a litle house in the <place>Countesse of Warwicks
         Island</place>, and garnished it with many kinds of trifles, as Pinnes, Points,
         Laces, Glasses, Kombes, Babes on horsebacke and on foote, with innumerable
         other such fansies and toyes: thereby to allure and entice the people to
@@ -1607,7 +1607,7 @@
 
       <para>
         Thus hauing finished all things we departed the Countrey, as I sayd before:
-        but because the Busse had not lading enough in her, she put into <place lat="" long="">Beares
+        but because the <ship>Busse</ship> had not lading enough in her, she put into <place lat="" long="">Beares
         sound</place> to take in a little more. In the meane while the Admirall, and the
         rest without at Sea stayed for her. And that night fell such an outragious
         tempest, beating on our shipps with such vehement rigor, that anchor and
@@ -1623,7 +1623,7 @@
       <para>
         This boystrous storme so seuered vs from one another, that one shippe knewe
         not what was become of another. The Admirall knewe not where to finde the
-        Viceadmirall or Rearadmirall, or any other ship of our company. Our
+        <ship>Viceadmirall</ship> or <ship>Rearadmirall</ship>, or any other ship of our company. Our
         Generall being on land in Beares sound could not come to his shippe, but
         was compelled to goe aboord the Gabriel where he continued all the way
         homeward: for the boystrous blasts continued so extreamely and so long a
@@ -1638,13 +1638,13 @@
       <para>
         <sidenote>Our entring the coastes dangerous.</sidenote> Thus our iourney outward was
         not so pleasant, but our comming thither, entering the coasts and countrey,
-        by narrow Streights, perillous yce, and swift tides, our times of aboade
+        by <place>narrow Streights</place>, perillous yce, and swift tides, our times of aboade
         there in snowe and stormes, and our departure from thence the <date day="1578-08-31">31. of August</date>
         with dangerous blustering windes and tempests, which that night arose, was
         as vncomfortable: separating vs so as we sayled, that not any of vs mette
         together, vntill the <date day="1578-09-28">28. of September</date>, which day we fell on the English
-        coastes, betweene <place lat="" long="">Sylley</place> and the <place lat="" long="">landes ende</place>, and passed the channell,
-        vntill our arriuall in the <place lat="" long="">riuer of Thames</place>.
+        coastes, betweene <place>Sylley</place> and the <place>landes ende</place>, and passed the channell,
+        vntill our arriuall in the <place>riuer of Thames</place>.
       </para>
   </extract>
 </extracts>
