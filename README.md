@@ -4,4 +4,4 @@ This repository holds an example dataset from Richard Hakluyt's [The Principal N
 
 The dataset is then mapped onto a Leaflet web map with CartoDB base layer.
 
-Can be found online at [this place](https://ryales.github.io/hakluyt-narrative-mapping.html).
+Can be found online at [this place](https://ryales.github.io/hakluyt/hakluyt-narrative-mapping.html).
